@@ -29,7 +29,7 @@ if ($result = mysqli_query($con, $sql))
  }
 
  // Encode the array to JSON and output the results
- echo json_encode($resultArray);
+ echo json_encode($resultArray, PRETTYPRINT);
 }
 
 // Close connections
