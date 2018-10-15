@@ -1,0 +1,4 @@
+Database : pokecards_am
+user : pokecards
+pwd : pokecards_root
+localhost : psqt.myd.infomaniak.com
