@@ -13,4 +13,4 @@ Fonctionnalités :
 - Echange de cartes limité.
 - Ajouter des amis.
 - Comment intéragir avec ses amis ? Cadeaux ?
-- Combats pokemon.
+- Combats pokemon
